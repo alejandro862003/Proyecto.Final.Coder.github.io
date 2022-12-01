@@ -59,7 +59,6 @@ h6 {
   display: grid;
   justify-content: center;
   grid-template-columns: 33% 33% 33%;
-  margin-left: 2%;
   align-items: center;
 }
 

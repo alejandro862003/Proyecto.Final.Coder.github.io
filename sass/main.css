@@ -305,7 +305,7 @@ main p {
   .galeria-img {
     width: 90vw;
     height: 350px;
-    margin-left: -9rem;
+    margin-left: -10rem;
     text-align: center;
   }
   main img {
@@ -366,7 +366,7 @@ main p {
   .galeria-img {
     width: 80vw;
     height: 350px;
-    margin-left: -11rem;
+    margin-left: -9rem;
     text-align: center;
   }
 }
